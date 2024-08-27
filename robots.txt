@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hernolit.github.io/sitemap.html.gz
+Sitemap: https://hernolit.github.io/app/sitemap.html.gz
+Sitemap: https://hernolit.github.io/assets/sitemap.html.gz
+Sitemap: https://hernolit.github.io/css/sitemap.html.gz
+Sitemap: https://hernolit.github.io/includes/sitemap.html.gz
+Sitemap: https://hernolit.github.io/item/sitemap.html.gz
+Sitemap: https://hernolit.github.io/src/sitemap.html.gz
